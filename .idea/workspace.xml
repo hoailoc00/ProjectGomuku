@@ -1,7 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
-    <list default="true" id="73c8814d-f075-4677-a1b6-12c8c58f4960" name="Changes" comment="" />
+    <list default="true" id="73c8814d-f075-4677-a1b6-12c8c58f4960" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/ProjectGomuku.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/Project_Default.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/black_piece.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/board.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/button.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/menu_board.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/assets/white_piece.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/PvPGUI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/button.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gui/interface.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/performance_eval.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/play.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/AI.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/gomoku.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/utils.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -21,11 +45,19 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "Python.play.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "git-widget-placeholder": "master"
+    "git-widget-placeholder": "master",
+    "last_opened_file_path": "D:/University/Year4 HK2/OSSD/ProjectGomuku",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\University\Year4 HK2\OSSD\ProjectGomuku" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
@@ -43,5 +75,16 @@
       <updated>1715392751357</updated>
     </task>
     <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
